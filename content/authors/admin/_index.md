@@ -61,7 +61,7 @@ education:
       - INFO 370 & 371: Core Methods in Data Science & Advanced Methods in Data Science
 
 publication: |
-  Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang. "SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-22, 2024, Art no. 5006722, doi: 10.1109/TGRS.2024.3471786.
+  Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang. SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection. IEEE Transactions on Geoscience and Remote Sensing. 2024;62:1-22. doi:10.1109/TGRS.2024.3471786
 
 work:
   - position: Research Assistant
@@ -87,7 +87,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python, R, SQL, JAVA, JavaScript, Matlab
+      - name: Python
         description: ''
         percent: 100
         icon: code-bracket
@@ -95,7 +95,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket 
-        - name: JAVA
+      - name: JAVA
         description: ''
         percent: 80
         icon: code-bracket 
