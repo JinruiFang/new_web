@@ -115,10 +115,11 @@ skills:
 
 ---
 Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests:
- (1) unraveling the intricate links between data and human health to better understand and address health disparities
 
- (2) developing interpretable NLP models for information extraction from health-related text
+ (1) Unraveling the intricate links between data and human health to better understand and address health disparities
 
- (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
+ (2) Developing interpretable NLP models for information extraction from health-related text
+
+ (3) Designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
 
  Please see my research expereience in my resume!
