@@ -60,10 +60,6 @@ education:
       - INFO 340: Client-side Development
       - INFO 370 & 371: Core Methods in Data Science & Advanced Methods in Data Science
 
-publication: 
-    summary: |
-      Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang. SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection. IEEE Transactions on Geoscience and Remote Sensing. 2024;62:1-22. doi:10.1109/TGRS.2024.3471786
-
 work:
   - position: Research Assistant
     company_name: Center for Anti-racism, Social Justice and Public Health
