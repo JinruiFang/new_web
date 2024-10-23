@@ -25,6 +25,13 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+  - block: publications
+    content:
+      title: Publications
+      username: admin
+    design:
+      layout: list  # Options can be 'list', 'grid', 'card', etc., based on theme support
+      date_format: 'January 2024'
   - block: experience
     content:
       username: admin
