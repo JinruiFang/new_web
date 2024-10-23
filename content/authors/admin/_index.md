@@ -27,43 +27,43 @@ profiles:
     url: https://www.linkedin.com/in/jinrui-fang/
 
 publications:
-  - title: SCINet Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection
-    authors: Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang
-    journal: IEEE Transactions on Geoscience and Remote Sensing
+  - title: 'SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection'
+    authors: 'Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang'
+    journal: 'IEEE Transactions on Geoscience and Remote Sensing'
     date: 2024
     volume: 62
-    pages: 1-22
-    doi: 10.1109/TGRS.2024.3471786
-    summary: This study proposes a novel SCINet model for super-resolution infrared target detection, enhancing performance in UAV applications.
-  - title: Sociodemographic Variation in Experiences with Medication Shortages among US Adults
-    authors: Jinrui Fang, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather
-    journal: American Journal of Preventive Medicine
-    status: Under Review
-    summary: Explores sociodemographic disparities in medication shortages, focusing on potential policy implications for healthcare equity.
+    pages: '1-22'
+    doi: '10.1109/TGRS.2024.3471786'
+    summary: 'This study proposes a novel SCINet model for super-resolution infrared target detection, enhancing performance in UAV applications.'
+  - title: 'Sociodemographic Variation in Experiences with Medication Shortages among US Adults'
+    authors: 'Jinrui Fang, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather'
+    journal: 'American Journal of Preventive Medicine'
+    status: 'Under Review'
+    summary: 'Explores sociodemographic disparities in medication shortages, focusing on potential policy implications for healthcare equity.'
 
 manuscripts_in_preparation:
-  - title: Multiple Partner Fertility and Perceived Health in the United States
-    authors: Jinrui Fang, Diana R Silver, Sarah Cowan, Kimberly A. Kaphingst, Melody S. Goodman, Jemar R. Bather
-    summary: Investigates the impact of multiple partner fertility on perceived health in the US, using a mixed-methods approach.
-  - title: Three Underused Statistical Methods in Social Epidemiology Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
-    authors: Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather
-    status: Revised and Resubmitted
-    journal: American Journal of Epidemiology
-    summary: Highlights three statistical methods that offer robust insights for social epidemiology research.
+  - title: 'Multiple Partner Fertility and Perceived Health in the United States'
+    authors: 'Jinrui Fang, Diana R Silver, Sarah Cowan, Kimberly A. Kaphingst, Melody S. Goodman, Jemar R. Bather'
+    summary: 'Investigates the impact of multiple partner fertility on perceived health in the US, using a mixed-methods approach.'
+  - title: 'Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time'
+    authors: 'Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather'
+    status: 'Revised and Resubmitted'
+    journal: 'American Journal of Epidemiology'
+    summary: 'Highlights three statistical methods that offer robust insights for social epidemiology research.'
 
 presentations:
-  - title: Sociodemographic Variation in Experiences with Medication Shortages among US Adults
-    authors: Jinrui Fang, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather
-    event: American Statistical Association StatFest Conference
-    location: Columbia University, NY
+  - title: 'Sociodemographic Variation in Experiences with Medication Shortages among US Adults'
+    authors: 'Jinrui Fang, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather'
+    event: 'American Statistical Association StatFest Conference'
+    location: 'Columbia University, NY'
     date: 2024
-    type: Poster Presentation
-  - title: Three Underused Statistical Methods in Social Epidemiology Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
-    authors: Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather
-    event: Research Renaissance: Health Equity in Action
-    location: New York University, NY
+    type: 'Poster Presentation'
+  - title: 'Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time'
+    authors: 'Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather'
+    event: 'Research Renaissance: Health Equity in Action'
+    location: 'New York University, NY'
     date: 2024
-    type: Poster Presentation
+    type: 'Poster Presentation'
 
 education:
   - area: M.S., Data Science
