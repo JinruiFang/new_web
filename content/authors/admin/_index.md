@@ -27,7 +27,7 @@ profiles:
     url: https://www.linkedin.com/in/jinrui-fang/
 
 publications:
-  - title: SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection
+  - title: SCINet Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection
     authors: Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang
     journal: IEEE Transactions on Geoscience and Remote Sensing
     date: 2024
