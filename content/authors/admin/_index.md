@@ -69,7 +69,22 @@ work:
     date_end: ''
     summary: |
       - Collaborated on interdisciplinary research projects, significantly contributing to manuscript writing conceptualization, methodology development, and data visualization. Led the preparation of original drafts, ensuring the presentation of research findings met high academic standards and demonstrated rigorous analytical thinking.
-
+  - position: Teaching Assistant
+    company_name: University of Washington
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-03-15
+    date_end: ''
+    summary: |
+      - Assisted the instructor in developing an advanced data science curriculum for over 70 students, leading weekly lab sessions on machine learning, experimental design, causal inference, NLP, and deep learning. Prepared and graded problem sets and quizzes, offering constructive feedback.
+  - position: Teaching Assistant
+    company_name: University of Washington
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-09-15
+    date_end: ''
+    summary: |
+      - Assisted the instructor in developing R programming fundamentals for over 200 students, leading weekly lab sessions on data manipulation, analysis, and visualization. Guided over 25 student groups in developing interactive web applications using ShininyApp.
   - position: Data Analyst
     company_name: Hangzhou Sunyard Technology Co., Ltd.
     company_url: ''
