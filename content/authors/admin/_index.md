@@ -59,6 +59,10 @@ education:
       - INFO 330: Databases and Data Modeling
       - INFO 340: Client-side Development
       - INFO 370 & 371: Core Methods in Data Science & Advanced Methods in Data Science
+
+publication: |
+  Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, Jinrui Fang. "SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-22, 2024, Art no. 5006722, doi: 10.1109/TGRS.2024.3471786.
+
 work:
   - position: Research Assistant
     company_name: Center for Anti-racism, Social Justice and Public Health
@@ -85,29 +89,32 @@ skills:
     items:
       - name: Python, R, SQL, JAVA, JavaScript, Matlab
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: PowerBi, Tableau
+      - name: R
+        description: ''
+        percent: 100
+        icon: code-bracket 
+        - name: JAVA
+        description: ''
+        percent: 80
+        icon: code-bracket 
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: code-bracket  
+      - name: Spark
+        description: ''
+        percent: 60
+        icon: code-bracket  
+      - name: PowerBi
         description: ''
         percent: 100
         icon: chart-bar
-
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Tableau
         description: ''
         percent: 100
-        icon: cat
-      - name: guitar
-        description: ''
-        percent: 80
-        icon: camera
+        icon: chart-bar  
 
 ---
-你好! Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests are (1) unraveling the intricate links between data and human health to better understand and address health disparities, (2) developing interpretable NLP models for information extraction from health-related text, and (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
+Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests are (1) unraveling the intricate links between data and human health to better understand and address health disparities, (2) developing interpretable NLP models for information extraction from health-related text, and (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
