@@ -45,7 +45,7 @@ manuscripts_in_preparation:
   - title: Multiple Partner Fertility and Perceived Health in the United States
     authors: Jinrui Fang, Diana R Silver, Sarah Cowan, Kimberly A. Kaphingst, Melody S. Goodman, Jemar R. Bather
     summary: Investigates the impact of multiple partner fertility on perceived health in the US, using a mixed-methods approach.
-  - title: Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
+  - title: Three Underused Statistical Methods in Social Epidemiology Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
     authors: Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather
     status: Revised and Resubmitted
     journal: American Journal of Epidemiology
