@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Jinrui Fang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jinrui
+last_name: Fang
 
 # Status emoji
 status:
@@ -16,102 +13,85 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Director of Cloud Infrastructure
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'jf4959@nyu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/JinruiFang
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0002-2695-7460
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jinrui-fang/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S., Data Science
+    institution: New York University
+    date_start: 2023-09-03
+    date_end: 2025-05-20
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Relevant Courses included:
+      - DS-GA 1001: Introduction to Data Science
+      - DS-GA 1007: Programming for Data Science
+      - DS-GA 1014: Optimizationi and Computational Linear Algebra
+      - DS-GA 1003: Machine Learning
+      - DS-GA 1004: Big Data
+      - DS-GA 1012: Natural Language Understanding and Computational Semantics
+      - DS-GA 1011: Natural Language Representation Learning with Representation Learning
+      - DS-GA 1016: Computational Cognitive Modeling
+  - area: B.S., Informatics (Data Science concentration)
+    institution: University of Washington
+    date_start: 2019-09-23
+    date_end: 2023-06-10
     summary: |
-      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant Courses included:
+      - CSE 142 & 143: Computing Programming 1 & 2
+      - CSE 373: Data Structures and Algorithms
+      - STAT 221: Statistics for Social Science
+      - STAT 311: Elements of Statistical Methods
+      - AMATH 301: Beginning Scientific Computing
+      - INFO 201: Foundational Skills for Data Science
+      - INFO 300: Research Methods
+      - INFO 330: Databases and Data Modeling
+      - INFO 340: Client-side Development
+      - INFO 370 & 371: Core Methods in Data Science & Advanced Methods in Data Science
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant
+    company_name: Center for Anti-racism, Social Justice and Public Health
+    company_url: 'https://publichealth.nyu.edu/w/casjph'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-02-15
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - Collaborated on interdisciplinary research projects, significantly contributing to manuscript writing conceptualization, methodology development, and data visualization. Led the preparation of original drafts, ensuring the presentation of research findings met high academic standards and demonstrated rigorous analytical thinking.
+
+  - position: Data Analyst
+    company_name: Hangzhou Sunyard Technology Co., Ltd.
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2021-06-30
+    date_end: 2021-09-01
+    summary: | 
+      - Leveraged data analysis and market research to create user profiles and enhance app personalization, improving user experience through statistical modeling. Collaborated with crossfunctional teams to translate data insights into actionable specifications, leading to the development and integration of over 5 key features aligned with business targets.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, R, SQL, JAVA, JavaScript, Matlab
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: code-bracket
+      - name: PowerBi, Tableau
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
+        icon: chart-bar
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -124,49 +104,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: guitar
         description: ''
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+你好! Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests are (1) unraveling the intricate links between data and human health to better understand and address health disparities, (2) developing interpretable NLP models for information extraction from health-related text, and (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
