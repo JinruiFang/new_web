@@ -58,7 +58,7 @@ presentations:
     location: Columbia University, NY
     date: 2024
     type: Poster Presentation
-  - title: Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
+  - title: Three Underused Statistical Methods in Social Epidemiology Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time
     authors: Jinrui Fang, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather
     event: Research Renaissance: Health Equity in Action
     location: New York University, NY
