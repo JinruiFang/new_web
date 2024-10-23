@@ -26,69 +26,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jinrui-fang/
 
-
-# Page title
-title: My page
-# Page type - we want a landing page (such as a homepage)
-type: landing
-
-# Your landing page sections
-sections:
-  - block: markdown
-    id: peer-reviewed-publications
-    content:
-      title: Peer-Reviewed Publications
-      text: |
-        **1. SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection**  
-        *Authors:* Houzhang Fang, Lan Ding, Xiaolin Wang, Yi Chang, Luxin Yan, Li Liu, **Jinrui Fang**  
-        *Journal:* IEEE Transactions on Geoscience and Remote Sensing, 2024; 62:1-22  
-        *DOI:* [10.1109/TGRS.2024.3471786](https://doi.org/10.1109/TGRS.2024.3471786)  
-        *Summary:* This study proposes a novel SCINet model for super-resolution infrared target detection, enhancing performance in UAV applications.
-
-  - block: markdown
-    id: manuscripts-under-review
-    content:
-      title: Manuscripts Under Review
-      text: |
-        **1. Sociodemographic Variation in Experiences with Medication Shortages among US Adults**  
-        *Authors:* **Jinrui Fang**, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather  
-        *Journal:* Under Review: American Journal of Preventive Medicine  
-        *Summary:* Explores sociodemographic disparities in medication shortages, focusing on potential policy implications for healthcare equity.
-
-  - block: markdown
-    id: manuscripts-in-preparation
-    content:
-      title: Manuscripts in Preparation
-      text: |
-        **1. Multiple Partner Fertility and Perceived Health in the United States**  
-        *Authors:* **Jinrui Fang**, Diana R Silver, Sarah Cowan, Kimberly A. Kaphingst, Melody S. Goodman, Jemar R. Bather  
-        *Summary:* Investigates the impact of multiple partner fertility on perceived health in the US, using a mixed-methods approach.
-
-        **2. Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time**  
-        *Authors:* **Jinrui Fang**, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather  
-        *Status:* Revised and Resubmitted  
-        *Journal:* American Journal of Epidemiology  
-        *Summary:* Highlights three statistical methods that offer robust insights for social epidemiology research.
-
-  - block: markdown
-    id: presentations
-    content:
-      title: Presentations
-      text: |
-        **1. Sociodemographic Variation in Experiences with Medication Shortages among US Adults**  
-        *Authors:* **Jinrui Fang**, Melody S. Goodman, Kimberly A. Kaphingst, Jin Yung Bae, Nina S Parikh, Diana R Silver, Jemar R. Bather  
-        *Event:* American Statistical Association StatFest Conference  
-        *Location:* Columbia University, NY  
-        *Date:* 2024  
-        *Type:* Poster Presentation
-
-        **2. Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time**  
-        *Authors:* **Jinrui Fang**, Melody S. Goodman, Marina M. Wizentier, Jemar R. Bather  
-        *Event:* Research Renaissance: Health Equity in Action  
-        *Location:* New York University, NY  
-        *Date:* 2024  
-        *Type:* Poster Presentation
-
 education:
   - area: M.S., Data Science
     institution: New York University
@@ -177,4 +114,11 @@ skills:
         icon: chart-bar  
 
 ---
-Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests are (1) unraveling the intricate links between data and human health to better understand and address health disparities, (2) developing interpretable NLP models for information extraction from health-related text, and (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
+Hi! I am currently a graduate student studing data science at New York University! Before this, I obtained B.S. in Informatics (Data Science concentration) at the University of Washington. My research interests:
+ (1) unraveling the intricate links between data and human health to better understand and address health disparities
+
+ (2) developing interpretable NLP models for information extraction from health-related text
+
+ (3) designing human-in-the-loop AI systems that support healthcare providers, patients, and policymakers in making evidence-based decisions.
+
+ Please see my research expereience in my resume!
